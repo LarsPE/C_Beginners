@@ -10,6 +10,8 @@ int main(int argc, char const *argv[]) {
   //                                    x += 1
 
   int x = 20;
-  
+  x += 1;
+  printf("%d\n", x);
+
   return 0;
 }
